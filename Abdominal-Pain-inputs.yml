@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/abdominal-pain-abdoman---primary.py
+inputModule3:
+  class: File
+  path: python/subcostal-abdominal-pain---primary.py
+inputModule4:
+  class: File
+  path: python/epigastric-abdominal-pain---primary.py
+inputModule5:
+  class: File
+  path: python/abdominal-pain---primary.py
+inputModule6:
+  class: File
+  path: python/abdominal-pain-dright---primary.py
+inputModule7:
+  class: File
+  path: python/abdominal-pain-dleft---primary.py
+inputModule8:
+  class: File
+  path: python/abdominal-pain-colon---primary.py
+inputModule9:
+  class: File
+  path: python/abdominal-pain-fossa---primary.py
+inputModule10:
+  class: File
+  path: python/lower-abdominal-pain---primary.py
+inputModule11:
+  class: File
+  path: python/abdominal-pain-palpation---primary.py
+inputModule12:
+  class: File
+  path: python/pain---primary.py
+inputModule13:
+  class: File
+  path: python/abdominal-pain-bowel---primary.py
+inputModule14:
+  class: File
+  path: python/umbilical-abdominal-pain---primary.py
+inputModule15:
+  class: File
+  path: python/abdominal-pain-abd.painr.hypochondrium---primary.py
+inputModule16:
+  class: File
+  path: python/perineal-abdominal-pain---primary.py
+inputModule17:
+  class: File
+  path: python/upper-abdominal-pain---primary.py
+inputModule18:
+  class: File
+  path: python/abdominal-pain-flank---primary.py
+inputModule19:
+  class: File
+  path: python/abdominal-pain-abd.painl.hypochondrium---primary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
